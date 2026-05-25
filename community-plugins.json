@@ -29461,5 +29461,12 @@
     "author": "dgalichet",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Search the current vault through a local obsidian-kb semantic index.",
     "repo": "dgalichet/obsidian-kb-plugin"
+  },
+  {
+    "id": "easy-obookshelf",
+    "name": "Easy Bookshelf",
+    "author": "cocoa",
+    "description": "Manage your bookshelf from ISBN. Fetches book metadata from NDL, Google Books, and Open Library, then creates and organizes book notes.",
+    "repo": "CocoaAI-IT/easy-obookshelf"
   }
 ]
